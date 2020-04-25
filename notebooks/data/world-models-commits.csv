@@ -1,0 +1,79 @@
+2020-01-15 21:47:48 +0100,a70a2c6,Adam Green,adam.green@adgefficiency.com,notebook rework
+2020-01-14 22:19:57 +0100,6b47ab5,Adam Green,adam.green@adgefficiency.com,blog post
+2020-01-10 16:18:53 +0100,ead772e,Adam Green,adam.green@adgefficiency.com,blog post
+2020-01-08 07:28:53 +0100,5867b93,Adam Green,adam.green@adgefficiency.com,vae draft blog post done
+2019-12-27 05:03:56 +0100,181a7e1,Adam Green,adam.green@adgefficiency.com,s
+2019-12-24 05:31:51 +0100,f570210,Adam Green,adam.green@adgefficiency.com,sync
+2019-12-24 04:14:28 +0100,d949637,Adam Green,adam.green@adgefficiency.com,blog
+2019-12-22 05:07:33 +0100,5f824cf,Adam Green,adam.green@adgefficiency.com,before cleanup
+2019-12-22 02:20:14 +0100,5d035d2,Adam Green,adam.green@adgefficiency.com,sync
+2019-12-22 01:31:40 +0100,464787c,Adam Green,adam.green@adgefficiency.com,first twitch stream!
+2019-12-20 22:18:57 +0100,87fdab1,Adam Green,adam.green@adgefficiency.com,blog
+2019-12-19 00:15:16 +0100,405b113,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of github.com:ADGEfficiency/world-models-dev
+2019-12-19 00:15:07 +0100,204d7dc,Adam Green,adam.green@adgefficiency.com,finished! starting blog post
+2019-12-18 19:37:41 +0000,cf9c3b1,Ubuntu,ubuntu@ip-172-31-33-77.eu-central-1.compute.internal,Merge branch 'master' of https://github.com/ADGEfficiency/world-models-dev
+2019-12-18 19:36:18 +0000,bd2b052,Ubuntu,ubuntu@ip-172-31-33-77.eu-central-1.compute.internal,-m
+2019-12-13 01:09:56 +0100,866edd9,Adam Green,adam.green@adgefficiency.com,moved memory epochs from params to train mem
+2019-12-08 13:12:32 +0000,44a0dff,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,remote memory tuning
+2019-12-08 13:10:12 +0000,7e78e99,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,clipping of the sigmas to be > 1e-8
+2019-12-08 12:56:08 +0000,9e33d89,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,increase gradient clipping
+2019-12-08 11:21:15 +0000,38f76a7,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,sync
+2019-12-08 11:12:01 +0000,6d62f15,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,removed record limit check
+2019-12-08 01:50:08 +0100,f34c72a,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of github.com:ADGEfficiency/world-models-dev
+2019-12-08 01:49:53 +0100,d7df550,Adam Green,adam.green@adgefficiency.com,fix controller rollouts
+2019-12-08 00:41:49 +0000,a92ede8,Ubuntu,ubuntu@ip-172-31-47-101.eu-central-1.compute.internal,epoch arg in vae
+2019-12-03 02:34:47 +0000,c4f1aa6,Ubuntu,ubuntu@ip-172-31-33-77.eu-central-1.compute.internal,max tasks per child tweak
+2019-12-02 19:17:34 +0000,b1478d4,Ubuntu,ubuntu@ip-172-31-43-93.eu-central-1.compute.internal,cma
+2019-12-02 18:20:43 +0100,f68a894,Adam Green,adam.green@adgefficiency.com,sync
+2019-12-02 13:49:11 +0100,a484c6e,Adam Green,adam.green@adgefficiency.com,sync
+2019-12-02 13:18:51 +0100,ecd6644,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of github.com:ADGEfficiency/world-models-dev
+2019-12-02 13:18:38 +0100,24211c5,Adam Green,adam.green@adgefficiency.com,sync
+2019-12-01 12:48:55 +0000,6029361,Ubuntu,ubuntu@ip-172-31-40-6.eu-central-1.compute.internal,bump to tf 2b1
+2019-11-25 09:24:23 +0100,234e2f8,Adam Green,adam.green@adgefficiency.com,seed for env
+2019-11-25 09:16:26 +0100,3ee1b0a,Adam Green,adam.green@adgefficiency.com,policy sampling from start episode
+2019-11-23 16:29:16 +0100,5ab12a2,Adam Green,adam.green@adgefficiency.com,readme & requirements
+2019-11-23 15:47:19 +0100,cef6a61,Adam Green,adam.green@adgefficiency.com,nbs
+2019-11-23 06:38:10 +0100,caa20d5,Adam Green,adam.green@adgefficiency.com,sampling policy & params cleanup
+2019-11-23 05:30:41 +0100,b80c3ba,Adam Green,adam.green@adgefficiency.com,sample from controller
+2019-11-22 07:59:32 +0100,7b7bf7a,Adam Green,adam.green@adgefficiency.com,sequence learning
+2019-11-03 08:38:11 +0000,0b30615,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,sigma down1
+2019-11-01 20:50:53 +0000,042aa9b,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,control
+2019-11-01 21:47:57 +0100,e88d847,Adam Green,adam.green@adgefficiency.com,sort
+2019-11-01 20:13:34 +0000,7d4c314,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,Merge branch 'master' of https://github.com/ADGEfficiency/world-models-dev
+2019-11-01 20:12:25 +0000,602a4b1,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,remote
+2019-11-01 21:11:01 +0100,e663f9f,Adam Green,adam.green@adgefficiency.com,sort
+2019-10-30 17:00:20 +0000,15772cc,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,move tf out of beta
+2019-10-30 17:56:53 +0100,143dd17,Adam Green,adam.green@adgefficiency.com,control
+2019-10-30 17:48:13 +0100,84f2803,Adam Green,adam.green@adgefficiency.com,saving controller
+2019-10-29 19:38:06 +0100,38fa7c3,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of github.com:ADGEfficiency/world-models-dev
+2019-10-29 19:37:38 +0100,d0658d7,Adam Green,adam.green@adgefficiency.com,save res
+2019-10-29 18:16:17 +0000,c016f54,Ubuntu,ubuntu@ip-172-31-24-27.eu-central-1.compute.internal,control training fixes
+2019-10-29 19:05:40 +0100,2d8afec,Adam Green,adam.green@adgefficiency.com,starmap fix added seeds
+2019-09-16 06:44:10 +0200,9768609,Adam Green,adam.green@adgefficiency.com,fix model save loc
+2019-09-15 23:47:18 +0000,f671995,Ubuntu,ubuntu@ip-172-31-46-95.eu-central-1.compute.internal,remote
+2019-09-15 23:46:03 +0000,9438e8d,Ubuntu,ubuntu@ip-172-31-46-95.eu-central-1.compute.internal,remote
+2019-09-01 02:06:48 +0200,05bf7a8,Adam Green,adam.green@adgefficiency.com,sync
+2019-09-01 00:01:36 +0000,73036a5,Ubuntu,ubuntu@ip-172-31-46-95.eu-central-1.compute.internal,s
+2019-08-31 22:14:41 +0000,d4ac5fa,Ubuntu,ubuntu@ip-172-31-46-95.eu-central-1.compute.internal,sync
+2019-08-31 23:51:09 +0200,df84429,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-30 22:18:47 +0200,ca2328d,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-30 20:40:44 +0200,ef796a4,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-28 17:28:01 +0000,a6f9849,Ubuntu,ubuntu@ip-172-31-46-139.eu-central-1.compute.internal,sync
+2019-08-28 18:55:29 +0200,cf75ef4,Adam Green,adam.green@adgefficiency.com,s
+2019-08-28 18:47:24 +0200,1ead7c3,Adam Green,adam.green@adgefficiency.com,clean
+2019-08-28 18:46:08 +0200,3c8bbba,Adam Green,adam.green@adgefficiency.com,cleanup
+2019-08-24 17:57:27 +0200,b9443fa,Adam Green,adam.green@adgefficiency.com,fix merg.
+2019-08-24 17:55:56 +0200,ee2027f,Adam Green,adam.green@adgefficiency.com,after training vae second time
+2019-08-16 17:05:49 +0000,35e6307,Ubuntu,ubuntu@ip-172-31-46-139.eu-central-1.compute.internal,random-rollouts
+2019-08-16 17:08:53 +0200,25843da,Adam Green,adam.green@adgefficiency.com,corrupt
+2019-08-16 10:06:49 +0200,617e120,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-16 09:01:53 +0200,c856be6,Adam Green,adam.green@adgefficiency.com,romeved local records - refactor into upload_to_s3 vae training cleanup
+2019-08-13 21:25:52 +0200,b9e3d9a,Adam Green,adam.green@adgefficiency.com,readme
+2019-08-13 21:23:32 +0200,06a9c2b,Adam Green,adam.green@adgefficiency.com,readme
+2019-08-13 21:19:24 +0200,96174eb,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-13 21:18:35 +0200,105a72c,Adam Green,adam.green@adgefficiency.com,vae logging readme
+2019-08-13 02:27:15 +0200,f2c8717,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of github.com:ADGEfficiency/world-models-dev
+2019-08-13 02:26:57 +0200,d4fc3cc,Adam Green,adam.green@adgefficiency.com,logging
+2019-08-10 22:44:06 +0000,ba6a9e9,Ubuntu,ubuntu@ip-172-31-40-214.eu-central-1.compute.internal,sync
+2019-08-11 00:27:58 +0200,8672d6b,Adam Green,adam.green@adgefficiency.com,sync
+2019-07-31 16:51:59 +0200,f358c20,Adam Green,adam.green@adgefficiency.com,initial dev commit

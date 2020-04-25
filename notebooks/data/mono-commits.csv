@@ -1,0 +1,48 @@
+,date,commit,author,email,message,filename,local-year,local-month,local-day,local-hour,local-day-of-week
+4,2019-08-08 02:43:10+02:00,5f58d0d,Adam Green,adam.green@adgefficiency.com,wm refactor,./data/all-mono-commits.csv,2019,8,8,2,3
+6,2019-07-28 12:59:56+02:00,55a9991,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,28,12,6
+9,2019-07-21 01:02:43+02:00,4a4fad4,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,21,1,6
+10,2019-07-20 23:31:41+02:00,4dcbbdf,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,23,5
+13,2019-07-20 18:51:37+02:00,9f1a913,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,18,5
+15,2019-07-20 17:32:09+02:00,ded080e,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,17,5
+16,2019-07-20 17:25:48+02:00,3557859,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,17,5
+17,2019-07-20 17:25:28+02:00,5e95287,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,17,5
+21,2019-07-20 16:39:19+02:00,b07f75a,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,20,16,5
+31,2019-07-06 12:49:12+02:00,b3f1cc4,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,6,12,5
+32,2019-07-06 11:34:01+02:00,a5f97d4,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,6,11,5
+33,2019-07-05 23:38:59+02:00,ff527ed,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,5,23,4
+34,2019-07-05 23:29:12+02:00,f1fd4b6,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,5,23,4
+35,2019-07-05 14:26:40+02:00,031694b,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,5,14,4
+37,2019-07-04 21:05:12+02:00,fb58fc7,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,4,21,3
+38,2019-07-03 21:03:44+02:00,c21c3c8,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,3,21,2
+39,2019-07-03 21:03:21+02:00,acacce0,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,3,21,2
+40,2019-07-02 16:17:37+02:00,98d7344,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,2,16,1
+41,2019-07-01 20:42:49+02:00,4e970f4,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,7,1,20,0
+42,2019-07-01 17:58:11+00:00,8fd2ce1,Ubuntu,ubuntu@ip-172-31-40-168.eu-central-1.compute.internal,wm,./data/all-mono-commits.csv,2019,7,1,17,0
+44,2019-06-30 19:16:56+02:00,cc9fadb,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,30,19,6
+45,2019-06-30 17:46:02+02:00,f4e9d03,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,30,17,6
+46,2019-06-30 17:31:47+02:00,45966bf,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,30,17,6
+47,2019-06-30 13:57:48+02:00,b941cbb,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,30,13,6
+50,2019-06-27 14:58:02+02:00,7ed63fb,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,27,14,3
+53,2019-06-23 21:27:06+02:00,30e76ce,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,23,21,6
+54,2019-06-23 19:34:19+02:00,2920877,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,23,19,6
+55,2019-06-23 17:14:10+02:00,4fa2e7e,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,23,17,6
+57,2019-06-23 15:02:57+02:00,114d705,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,23,15,6
+58,2019-06-21 17:54:14+02:00,5c9708f,Adam Green,adam.green@adgefficiency.com,world models to worldmodels,./data/all-mono-commits.csv,2019,6,21,17,4
+63,2019-06-18 18:26:54+02:00,3e17282,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,18,18,1
+64,2019-06-18 18:15:48+02:00,36dcf16,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,18,18,1
+67,2019-06-17 20:31:50+02:00,10d6cfc,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,17,20,0
+68,2019-06-17 20:00:14+02:00,305f523,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,17,20,0
+69,2019-06-17 19:55:39+02:00,e1dcccf,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,17,19,0
+70,2019-06-17 19:50:57+02:00,ad07334,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,17,19,0
+71,2019-06-17 19:50:45+02:00,cfd0dd0,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,17,19,0
+75,2019-06-15 14:45:41+02:00,76d1813,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,6,15,14,5
+77,2019-06-15 11:42:53+02:00,06dfca6,Adam Green,adam.green@adgefficiency.com,wm tf records working,./data/all-mono-commits.csv,2019,6,15,11,5
+78,2019-06-15 11:24:03+02:00,cda49e7,Adam Green,adam.green@adgefficiency.com,wm tf records working,./data/all-mono-commits.csv,2019,6,15,11,5
+79,2019-06-15 09:27:55+02:00,c6da088,Adam Green,adam.green@adgefficiency.com,wm tf records working,./data/all-mono-commits.csv,2019,6,15,9,5
+94,2019-06-04 19:26:33+02:00,f512ada,Adam Green,adam.green@adgefficiency.com,world models controller,./data/all-mono-commits.csv,2019,6,4,19,1
+104,2019-05-05 18:21:18+12:00,6bd7f56,Adam Green,adam.green@adgefficiency.com,world models work,./data/all-mono-commits.csv,2019,5,5,18,6
+105,2019-05-02 23:08:42+12:00,1717839,Adam Green,adam.green@adgefficiency.com,wm,./data/all-mono-commits.csv,2019,5,2,23,3
+112,2019-04-23 17:55:33+12:00,2d6b86d,Adam Green,adam.green@adgefficiency.com,world models before memory dev;,./data/all-mono-commits.csv,2019,4,23,17,1
+114,2019-04-12 05:38:31+12:00,785cf89,Adam Green,adam.green@adgefficiency.com,world models - latent stats done starting on memory,./data/all-mono-commits.csv,2019,4,12,5,4
+117,2019-04-11 22:58:59+12:00,e4eeec0,Adam Green,adam.green@adgefficiency.com,world models - clean test suite,./data/all-mono-commits.csv,2019,4,11,22,3
