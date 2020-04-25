@@ -1,0 +1,124 @@
+2019-11-17 10:48:59 +0100,2096fc9,Adam Green,adam.green@adgefficiency.com,sync
+2019-11-17 10:32:23 +0100,0bd05f2,Adam Green,adam.green@adgefficiency.com,dsr
+2019-10-09 21:56:58 +0200,cf43aea,Adam Green,adam.green@adgefficiency.com,dsr
+2019-09-29 00:15:02 +0200,f5fb7f7,Adam Green,adam.green@adgefficiency.com,sync
+2019-08-08 02:43:34 +0200,482e1f0,Adam Green,adam.green@adgefficiency.com,dsr
+2019-08-08 02:43:10 +0200,5f58d0d,Adam Green,adam.green@adgefficiency.com,wm refactor
+2019-07-30 14:54:22 +0200,6e1ff78,Adam Green,adam.green@adgefficiency.com,dsr
+2019-07-28 12:59:56 +0200,55a9991,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-21 19:56:03 +0000,7d268b1,Ubuntu,ubuntu@ip-172-31-44-63.eu-central-1.compute.internal,first remote trainig of com
+2019-07-21 15:24:18 +0200,d592e00,Adam Green,adam.green@adgefficiency.com,sync
+2019-07-21 01:02:43 +0200,4a4fad4,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 23:31:41 +0200,4dcbbdf,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 17:28:23 +0000,d8119bb,Ubuntu,ubuntu@ip-172-31-44-107.eu-central-1.compute.internal,control
+2019-07-20 17:25:38 +0000,8254b42,Ubuntu,ubuntu@ip-172-31-44-107.eu-central-1.compute.internal,pyglet ver
+2019-07-20 18:51:37 +0200,9f1a913,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 17:54:18 +0200,635817b,Adam Green,adam.green@adgefficiency.com,sybc
+2019-07-20 17:32:09 +0200,ded080e,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 17:25:48 +0200,3557859,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 17:25:28 +0200,5e95287,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-20 17:01:19 +0200,d266e95,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of https://github.com/ADGEfficiency/mono
+2019-07-20 17:01:11 +0200,393ab96,Adam Green,adam.green@adgefficiency.com,sync
+2019-07-20 15:00:46 +0000,02eaa1b,Ubuntu,ubuntu@ip-172-31-32-49.eu-central-1.compute.internal,remote
+2019-07-20 16:39:19 +0200,b07f75a,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-19 21:33:02 +0200,47beb9d,Adam Green,adam.green@adgefficiency.com,sync
+2019-07-16 12:48:21 +0200,992b09f,Adam Green,adam.green@adgefficiency.com,sync before control wark
+2019-07-12 03:29:16 +0200,ba20d9c,Adam Green,adam.green@adgefficiency.com,aemo winus tesla
+2019-07-12 03:27:23 +0200,a62c320,Adam Green,adam.green@adgefficiency.com,dsr
+2019-07-07 20:14:03 +0200,2c74dfe,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of https://github.com/ADGEfficiency/mono
+2019-07-07 20:13:56 +0200,0d76009,Adam Green,adam.green@adgefficiency.com,dsr
+2019-07-07 14:10:44 +0000,1002a96,Ubuntu,ubuntu@ip-172-31-39-235.eu-central-1.compute.internal,Merge branch 'master' of https://github.com/ADGEfficiency/mono
+2019-07-07 14:09:37 +0000,44f4d49,Ubuntu,ubuntu@ip-172-31-39-235.eu-central-1.compute.internal,after trainig memory
+2019-07-06 18:14:02 +0200,643a189,Adam Green,adam.green@adgefficiency.com,backprop
+2019-07-06 12:49:12 +0200,b3f1cc4,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-06 11:34:01 +0200,a5f97d4,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-05 23:38:59 +0200,ff527ed,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-05 23:29:12 +0200,f1fd4b6,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-05 14:26:40 +0200,031694b,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-04 19:28:39 +0000,a0746cf,Ubuntu,ubuntu@ip-172-31-43-133.eu-central-1.compute.internal,remote
+2019-07-04 21:05:12 +0200,fb58fc7,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-03 21:03:44 +0200,c21c3c8,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-03 21:03:21 +0200,acacce0,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-02 16:17:37 +0200,98d7344,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-01 20:42:49 +0200,4e970f4,Adam Green,adam.green@adgefficiency.com,wm
+2019-07-01 17:58:11 +0000,8fd2ce1,Ubuntu,ubuntu@ip-172-31-40-168.eu-central-1.compute.internal,wm
+2019-06-30 17:26:19 +0000,7599556,Ubuntu,ubuntu@ip-172-31-38-66.eu-central-1.compute.internal,reworked latent sampling to save episode as single sample
+2019-06-30 19:16:56 +0200,cc9fadb,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-30 17:46:02 +0200,f4e9d03,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-30 17:31:47 +0200,45966bf,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-30 13:57:48 +0200,b941cbb,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-29 22:07:33 +0200,82beb09,Adam Green,adam.green@adgefficiency.com,pipe stdin
+2019-06-28 19:13:24 +0200,20e9686,Adam Green,adam.green@adgefficiency.com,dsr
+2019-06-27 14:58:02 +0200,7ed63fb,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-25 21:03:00 +0200,eff3c31,Adam Green,adam.green@adgefficiency.com,dsr
+2019-06-25 18:42:28 +0200,87d1dd4,Adam Green,adam.green@adgefficiency.com,dsr
+2019-06-23 21:27:06 +0200,30e76ce,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-23 19:34:19 +0200,2920877,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-23 17:14:10 +0200,4fa2e7e,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-23 15:03:35 +0200,6483f78,Adam Green,adam.green@adgefficiency.com,dsr
+2019-06-23 15:02:57 +0200,114d705,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-21 17:54:14 +0200,5c9708f,Adam Green,adam.green@adgefficiency.com,world models to worldmodels
+2019-06-20 18:12:01 +0200,a0632ea,Adam Green,adam.green@adgefficiency.com,notes
+2019-06-19 09:10:04 +0200,a6c895e,Adam Green,adam.green@adgefficiency.com,Merge branch 'master' of https://github.com/ADGEfficiency/mono
+2019-06-19 09:09:56 +0200,8c3f873,Adam Green,adam.green@adgefficiency.com,notes
+2019-06-18 16:47:28 +0000,31d1ace,Ubuntu,ubuntu@ip-172-31-33-1.eu-central-1.compute.internal,defaults working well
+2019-06-18 18:26:54 +0200,3e17282,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-18 18:15:48 +0200,36dcf16,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-18 15:47:10 +0000,4bb1190,Ubuntu,ubuntu@ip-172-31-33-1.eu-central-1.compute.internal,remote
+2019-06-18 11:08:47 +0200,67ff5b7,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-17 20:31:50 +0200,10d6cfc,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-17 20:00:14 +0200,305f523,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-17 19:55:39 +0200,e1dcccf,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-17 19:50:57 +0200,ad07334,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-17 19:50:45 +0200,cfd0dd0,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-17 10:45:38 +0200,41bf04a,Adam Green,adam.green@adgefficiency.com,fix render bug
+2019-06-16 19:42:09 +0000,8b4811e,Ubuntu,ubuntu@ip-172-31-42-159.eu-central-1.compute.internal,remote work
+2019-06-16 17:24:35 +0200,ff6dc88,Adam Green,adam.green@adgefficiency.com,tf setup
+2019-06-15 14:45:41 +0200,76d1813,Adam Green,adam.green@adgefficiency.com,wm
+2019-06-15 11:57:35 +0200,f00aec0,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-15 11:42:53 +0200,06dfca6,Adam Green,adam.green@adgefficiency.com,wm tf records working
+2019-06-15 11:24:03 +0200,cda49e7,Adam Green,adam.green@adgefficiency.com,wm tf records working
+2019-06-15 09:27:55 +0200,c6da088,Adam Green,adam.green@adgefficiency.com,wm tf records working
+2019-06-11 21:20:20 +0200,30c1709,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:36:32 +0200,74ebdeb,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:34:49 +0200,e7b671d,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:29:27 +0200,16d3ef4,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:13:55 +0200,009602d,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:03:04 +0200,4b78c5e,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 17:00:02 +0200,5665c5e,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-08 16:47:23 +0200,dd7ccc2,Adam Green,adam.green@adgefficiency.com,dataset working
+2019-06-07 18:17:14 +0200,296514d,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-07 17:56:52 +0200,d33f2b4,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-07 17:43:41 +0200,4c3e0ec,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-07 16:37:51 +0200,6d6b599,Adam Green,adam.green@adgefficiency.com,s3 working
+2019-06-07 16:00:36 +0200,ac527ef,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-07 16:00:00 +0200,cffae34,Adam Green,adam.green@adgefficiency.com,sync
+2019-06-04 19:26:33 +0200,f512ada,Adam Green,adam.green@adgefficiency.com,world models controller
+2019-06-02 10:40:56 +0200,2fbbfe2,Adam Green,adam.green@adgefficiency.com,k
+2019-06-02 10:33:53 +0200,d26e54f,Adam Green,adam.green@adgefficiency.com,engie initial commit
+2019-06-02 10:33:44 +0200,c9b42cb,Adam Green,adam.green@adgefficiency.com,initial commit of aws tools - can spin up check status ssh
+2019-05-31 11:31:14 +0200,d651b7d,Adam Green,adam.green@adgefficiency.com,dsr and aemo
+2019-05-13 23:21:50 +1200,ee355f8,Adam Green,adam.green@adgefficiency.com,evol
+2019-05-09 04:10:46 +1200,dd45a90,Adam Green,adam.green@adgefficiency.com,evol work
+2019-05-08 22:24:29 +1200,7b9384f,Adam Green,adam.green@adgefficiency.com,evol init
+2019-05-05 18:21:34 +1200,6401a81,Adam Green,adam.green@adgefficiency.com,ignore
+2019-05-05 18:21:26 +1200,3fd0ceb,Adam Green,adam.green@adgefficiency.com,aemo init
+2019-05-05 18:21:18 +1200,6bd7f56,Adam Green,adam.green@adgefficiency.com,world models work
+2019-05-02 23:08:42 +1200,1717839,Adam Green,adam.green@adgefficiency.com,wm
+2019-05-01 19:13:00 +1200,2879c58,Adam Green,adam.green@adgefficiency.com,memory training working
+2019-04-30 06:31:49 +1200,866d9de,Adam Green,adam.green@adgefficiency.com,dsr
+2019-04-30 06:31:44 +1200,ac71d1b,Adam Green,adam.green@adgefficiency.com,ml-resources
+2019-04-30 06:31:29 +1200,89772c1,Adam Green,adam.green@adgefficiency.com,mixed density net working
+2019-04-30 06:30:43 +1200,f038186,Adam Green,adam.green@adgefficiency.com,writing tools
+2019-04-30 06:30:23 +1200,25cad6a,Adam Green,adam.green@adgefficiency.com,writing tools
+2019-04-23 17:55:33 +1200,2d6b86d,Adam Green,adam.green@adgefficiency.com,world models before memory dev;
+2019-04-23 17:55:15 +1200,9849217,Adam Green,adam.green@adgefficiency.com,dsr refactor
+2019-04-12 05:38:31 +1200,785cf89,Adam Green,adam.green@adgefficiency.com,world models - latent stats done starting on memory
+2019-04-11 22:59:21 +1200,d3d7689,Adam Green,adam.green@adgefficiency.com,carracing
+2019-04-11 22:59:07 +1200,cf0c0ff,Adam Green,adam.green@adgefficiency.com,dsr
+2019-04-11 22:58:59 +1200,e4eeec0,Adam Green,adam.green@adgefficiency.com,world models - clean test suite
+2019-04-10 15:57:21 +1200,5a5555a,Adam Green,adam.green@adgefficiency.com,notes
+2019-04-09 23:19:20 +1200,0cce5aa,Adam Green,adam.green@adgefficiency.com,added ten thousand to dsr residency
+2019-04-08 18:38:57 +1200,d6232a7,Adam Green,adam.green@adgefficiency.com,music
+2019-04-07 22:59:45 +1200,b749b4c,Adam Green,adam.green@adgefficiency.com,refactor out rl-course
+2019-04-07 08:15:44 +1200,8a4a49b,Adam Green,adam.green@adgefficiency.com,initial
