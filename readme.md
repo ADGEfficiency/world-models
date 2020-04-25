@@ -4,7 +4,7 @@
 
 A Tensorflow 2.0 reimplementation of *World Models* - David Ha, Jürgen Schmidhuber (2018).
 
-You can find more detail about the project in this blog post](https://adgefficiency.com/world-models).  Resources and references are in [rl-resources/world-models](https://github.com/ADGEfficiency/rl-resources/tree/master/world-models).
+[You can find more detail about the project in this blog post](https://adgefficiency.com/world-models).  Resources and references are in [rl-resources/world-models](https://github.com/ADGEfficiency/rl-resources/tree/master/world-models).
 
 ##  Setup
 
