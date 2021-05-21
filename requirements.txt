@@ -1,6 +1,6 @@
 imageio==2.5.0
 gym==0.9.4
-tensorflow==2.0.0b1
+tensorflow==2.5.0rc0
 boto3==1.9.159
 pyglet==1.2.4
 matplotlib==3.0.3
