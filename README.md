@@ -8,11 +8,6 @@ You can find more about my work on this project in [this blog post](https://adge
 
 Resources and references in [rl-resources/world-models](https://github.com/ADGEfficiency/rl-resources/tree/master/world-models).
 
-##  Setup
-
-```bash
-$ git clone https://github.com/ADGEfficiency/world-models
-```
 
 ## Using a pretrained agent
 
@@ -69,10 +64,15 @@ $ python3 worldmodels/vision/train_vae.py --load_model 0 --data local
 $ aws s3 sync ~/world-models-experiments/vae-training s3://world-models/vae-training
 ```
 
-The following two commands are useful at this stage:
+The following two commands are useful at this stage - to track the GPU:
 
 ```bash
 $ nvidia-smi -l 1
+```
+
+And to track the training:
+
+```bash
 $ tail -f ~/world-models-experiments/vae-training/training.csv
 ```
 
@@ -109,7 +109,7 @@ $ xvfb-run -a -s "-screen 0 1400x900x24 +extension RANDR" -- python3 worldmodels
 $ aws s3 sync ~/world-models-experiments/control/ s3://world-models/control
 ```
 
-The following command are useful at this stage:
+The following command is useful at this stage - to folllow the reward logs:
 
 ```bash
 $ tail -f ~/world-models-experiments/control/rewards.log
@@ -117,7 +117,9 @@ $ tail -f ~/world-models-experiments/control/rewards.log
 
 ### Training the second generation
 
-The process for training the second iteration of the agent is given below.  The main difference is that data is samples from a controller, not a random policy.
+The process for training the second iteration of the agent is given below.
+
+This data is sampled from a controller, not a random policy.
 
 ```bash
 $ xvfb-run -a -s "-screen 0 1400x900x24 +extension RANDR" -- python3 worldmodels/data/sample_policy.py --num_process 8 --total_episodes 10000 --policy controller --dtype tfrecord
