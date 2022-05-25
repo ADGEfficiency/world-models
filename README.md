@@ -2,11 +2,9 @@
 
 ![](assets/f0.gif)
 
-A Tensorflow 2.0 reimplementation of *World Models* - David Ha, Jürgen Schmidhuber (2018).
+A Tensorflow 2.0 re-implementation of the 2018 classic paper *World Models* by David Ha & Jürgen Schmidhuber.
 
-You can find more about my work on this project in [this blog post](https://adgefficiency.com/world-models). 
-
-Resources and references in [rl-resources/world-models](https://github.com/ADGEfficiency/rl-resources/tree/master/world-models).
+[Blog post](https://adgefficiency.com/world-models) - [resources and references](https://github.com/ADGEfficiency/rl-resources/tree/master/world-models).
 
 
 ## Using a pretrained agent
